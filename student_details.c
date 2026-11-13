@@ -217,7 +217,7 @@ void student_CHAITANYA_R_B() {
 }
 
 void student_CHANDAN_C() {
-    printf("CHANDAN C is absent\n");
+    printf("CHANDAN C is present\n");
 }
 
 void student_CHANDANA_K_P() {
